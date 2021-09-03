@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T01:37:24.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OtH9_Aib95i9Q6GoFFE8" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T01:38:29.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="NmyEbVBPrUQnxPI2KQyn" version="15.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2903" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -56,19 +56,27 @@
           <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-27" target="IkaHGhUQ4Q9CL7noQv6P-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="-25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-27" target="IkaHGhUQ4Q9CL7noQv6P-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.037" y="30" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-27" value="Is there an Ace?" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=3;fontStyle=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-50" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-29" target="IkaHGhUQ4Q9CL7noQv6P-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.0658" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-52" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-29" target="IkaHGhUQ4Q9CL7noQv6P-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.0014" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-29" value="Is the sum over 21?" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=3;fontStyle=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-180" y="555" width="120" height="60" as="geometry" />
@@ -94,10 +102,14 @@
           <mxGeometry x="100" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-47" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-44" target="IkaHGhUQ4Q9CL7noQv6P-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-56" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkaHGhUQ4Q9CL7noQv6P-44" target="IkaHGhUQ4Q9CL7noQv6P-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.25" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkaHGhUQ4Q9CL7noQv6P-44" value="Would the player like to hit?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;strokeWidth=3;fontStyle=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="1050" width="120" height="60" as="geometry" />
